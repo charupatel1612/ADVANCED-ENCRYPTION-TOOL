@@ -11,7 +11,7 @@
 
 ## 📄 PROJECT DESCRIPTION
 
-This project is a **GUI-based AES-256 Encryption Tool** developed in Python using IDEL. It allows users to securely encrypt and decrypt files with a password, simulating real-world data protection practices.
+This project is a **GUI-based AES-256 Encryption Tool** developed in Python using IDLE. It allows users to securely encrypt and decrypt files with a password, simulating real-world data protection practices.
 
 The project provides a user-friendly interface to understand how encryption works using the AES (Advanced Encryption Standard) algorithm.
 
@@ -38,7 +38,7 @@ The project provides a user-friendly interface to understand how encryption work
 - Python 3.9+  
 - Tkinter (GUI)  
 - PyCryptodome (AES, SHA256)  
-- IDEL (Python IDE)
+- IDLE (Python IDE)
 
 ---
 
@@ -51,7 +51,7 @@ The project provides a user-friendly interface to understand how encryption work
 2. **Install required module (if not already):**
       pip install pycryptodome
 
-3. **Open `gui.py` in IDEL** and run the script.
+3. **Open `gui.py` in IDLE** and run the script.
 
 4. In the GUI:
 - Click **Browse File** and select the file you want to encrypt or decrypt.
