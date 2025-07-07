@@ -76,10 +76,4 @@ This tool helped me learn the practical use of encryption in cybersecurity. It s
 
 ## 🖥️ OUTPUT
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac7b8f00-4df9-4257-8dfc-45c316aaa722" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/09bbb4d3-f313-49b9-8e16-a92e4ecaaf9a" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ab8d4bb7-ac66-48d4-b26e-40dfd64bd376" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fb1788ff-47b8-49f8-9467-0487073a1f6f" />
